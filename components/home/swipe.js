@@ -78,8 +78,8 @@ export default function Swipe() {
         </h1>
         <p className="mt-4 text-xl text-gray-900">
           Les Programmes de formation pré-universitaire durant 2 ans ou 4
-          sessions. Ils préparent l'étudiant à poursuivre un cheminement
-          universitaire, ou vers l'emploi.
+          sessions. Ils préparent l&apos;étudiant à poursuivre un cheminement
+          universitaire, ou vers l&apos;emploi.
         </p>
         <a
           href="#"
