@@ -76,7 +76,7 @@ export default function Swipe() {
         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 lg:text-6xl">
           Programmes et Formations
         </h1>
-        <p className="mt-4 text-xl text-gray-900">
+        <p className="mt-4 text-xl text-gray-500">
           Les Programmes de formation pré-universitaire durant 2 ans ou 4
           sessions. Ils préparent l&apos;étudiant à poursuivre un cheminement
           universitaire, ou vers l&apos;emploi.
