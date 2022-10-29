@@ -125,7 +125,7 @@ export default function Footer() {
         <span>Made with</span>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          className="h-5 w-5 text-indigo-700"
+          className="h-5 w-5 text-sky-700"
           viewBox="0 0 20 20"
           fill="currentColor"
         >
@@ -136,7 +136,7 @@ export default function Footer() {
           />
         </svg>
         <span>by</span>
-        <span className=" transform transition-all duration-150 hover:border-b-2 border-indigo-400">
+        <span className=" transform transition-all duration-150 hover:border-b-2 border-sky-400">
           <a href="https://hossem.tn">Hossem</a>
         </span>
       </div>
