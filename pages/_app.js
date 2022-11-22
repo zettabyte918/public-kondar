@@ -3,6 +3,7 @@ import { Notification, NotificationProvider } from "@components/Notification";
 import Footer from "@components/ui/footer";
 import { AuthProvider } from "@context/auth";
 import { CoursProvider } from "@context/cours";
+import Banner from "@components/banners/banner";
 import { Fragment } from "react";
 import "../styles/globals.css";
 
@@ -25,6 +26,7 @@ function MyApp({ Component, pageProps }) {
         </AuthProvider>
       </NotificationProvider>
       <Footer />
+      <Banner />
     </Fragment>
   );
 }

@@ -118,6 +118,18 @@ export default function Footer() {
           <p className="text-center text-base text-gray-400">
             &copy; 2022 KONDAR SCHOOL, Centre. Tous les droits sont réservés.
           </p>
+          <div className="text-sm md:text-xs pt-5 font-medium">
+            <p className="text-gray-400">
+              Adresse : Rue 20 Mars 4020 Kondar-Sousse
+            </p>
+            <p className=" text-gray-400">
+              Tél-Mob : 98 426 300/50 883 588/98 425 975{" "}
+            </p>
+            <p className=" text-gray-400">Tél-Fix : 70 299 777 </p>
+            <p className=" text-gray-400">E-mail : centrecfk@gmail.com</p>
+            <p className=" text-gray-400">Site web: kondarschool.tn</p>
+            <p className=" text-gray-400">Facebook: Kondar school</p>
+          </div>
         </div>
       </div>
 

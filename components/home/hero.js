@@ -190,10 +190,12 @@ export default function Hero() {
               </span>
             </h1>
             <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              Kondar school est un centre de formation professionnelle basé à
-              Sousse, et agréé par l&apos;état tunisien pour les formations
-              continues avec une variété de programmes, dans différents secteurs
-              d&apos;activité.
+              C&#39;est un centre privé de formation professionnelle créé en
+              2022. Notre slogan est la Formation par Excellence et ce pour être
+              académiquement classé au premier rang en Tunisie et aussi pour
+              assurer des cycles de formation au profit des Entreprises
+              publiques et privées œuvrant dans tous les domaines et dans tous
+              les secteurs d&apos;activité.
             </p>
             <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
