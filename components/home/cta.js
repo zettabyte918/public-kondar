@@ -103,14 +103,6 @@ export default function Cta() {
                 Formations à la une
               </h2>
               <p className="text-lg text-white">
-                {/* Pour ceux qui ont raté leur baccalauréat, ou ceux qui ne
-                l&apos;ont jamais passé, ne vous inquiétez pas,
-                <span className="bg-sky-800 font-medium p-1 rounded-lg">
-                  KONDAR SCHOOL
-                </span>{" "}
-                a des alternatives pour tout le monde, et vous propose une
-                formation sans bac Tunisie tout en vous garantissant un
-                processus d&apos;apprentissage de haute qualité. */}
                 Notre centre vous propose une offre complète de formations
                 adaptées à tous les publics : étudiants, cadres, demandeurs
                 d&#39;emploi et chefs d&#39;entreprise. Un centre de formation
